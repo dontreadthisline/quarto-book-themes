@@ -34,7 +34,7 @@
     margin-left: calc(-1 * var(--gen-col, 250px)); opacity: 0; pointer-events: none;
   }
   body.gen-reading #quarto-content {
-    grid-template-columns: 2.5rem minmax(0, 58rem) clamp(12rem, 14vw, 15rem) 2.5rem !important;
+    grid-template-columns: 2.5rem minmax(0, var(--gen-reading-max, 58rem)) clamp(12rem, 14vw, 15rem) 2.5rem !important;
     justify-content: center;
   }
   body.gen-reading #quarto-content > * { grid-column: 2 !important; }

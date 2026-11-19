@@ -6,6 +6,7 @@
 |---|---|---|
 | **Genesis Book** | `genesis-book-html` | litera 底座：无衬线正文 + 衬线标题，冷灰目录面板 |
 | **Paper Book** | `paper-book-html` | journal 底座：全衬线正文（纸书观感），纸色目录面板 |
+| **Indigo Atlas** | `indigo-atlas-html` | litera 底座：靛蓝配色 + 图册版心（导航态 50rem / 阅读态 66rem，参考 aaai.latere.ai 的 atlas 满宽版式） |
 
 ## 安装与使用
 
