@@ -138,3 +138,4 @@ dd code:not([class^="sourceCode"]) {
 
 // ---- litera 正文 serif 覆盖: main 显式继承 sans ----
 main { font-family: var(--gen-font-sans); }
+p { font-family: inherit; }
